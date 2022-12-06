@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.174db283.css",
+    "main.js": "/portfolio/static/js/main.7308a7be.js",
+    "static/media/catwiki1.png": "/portfolio/static/media/catwiki1.ac750c42cc5d3cfed5a7.png",
+    "static/media/catwiki3.png": "/portfolio/static/media/catwiki3.1c05a1dbcaa9e13e659f.png",
+    "static/media/cocktail1.png": "/portfolio/static/media/cocktail1.c311a0ef558adb8f2d38.png",
+    "static/media/catwiki2.png": "/portfolio/static/media/catwiki2.5a6a59f83b2c0cf0332e.png",
+    "static/media/cocktail3.png": "/portfolio/static/media/cocktail3.41f3e5c83729b1d57a26.png",
+    "static/media/cocktail2.png": "/portfolio/static/media/cocktail2.0a9558692fea12bf6a83.png",
+    "static/media/CrashCourseOnPython.png": "/portfolio/static/media/CrashCourseOnPython.e3b510a5e9613aab4490.png",
+    "static/media/FoundationsDataDataEverywhere.png": "/portfolio/static/media/FoundationsDataDataEverywhere.304cf3c262efd797e510.png",
+    "static/media/MicrosoftCertifiedAzureFundamentals.png": "/portfolio/static/media/MicrosoftCertifiedAzureFundamentals.4703d2d20063475b4d5c.png",
+    "static/media/IntroToMachineLearning.png": "/portfolio/static/media/IntroToMachineLearning.b49dba635b4b8951dc4d.png",
+    "static/media/Pandas.png": "/portfolio/static/media/Pandas.9f4ed901f4afbbf708e1.png",
+    "static/media/Python.png": "/portfolio/static/media/Python.23aea89671d0cf666860.png",
+    "static/media/ticTacToe3.png": "/portfolio/static/media/ticTacToe3.90e71c349a40ac5ed024.png",
+    "static/media/IntermediateMachineLearning.png": "/portfolio/static/media/IntermediateMachineLearning.97dcd7ad3187e64c39ce.png",
+    "static/media/DataVisualization.png": "/portfolio/static/media/DataVisualization.164a55e322e1306aff37.png",
+    "static/media/ticTacToe2.png": "/portfolio/static/media/ticTacToe2.f4533ebff40845c8927a.png",
+    "static/media/ticTacToe1.png": "/portfolio/static/media/ticTacToe1.3e91ff5d75f22b2e97b6.png",
+    "index.html": "/portfolio/index.html",
+    "main.174db283.css.map": "/portfolio/static/css/main.174db283.css.map",
+    "main.7308a7be.js.map": "/portfolio/static/js/main.7308a7be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.174db283.css",
+    "static/js/main.7308a7be.js"
+  ]
+}
