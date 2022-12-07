@@ -12,7 +12,7 @@ const Certificate = ({name, src}) => {
   return (
     <div className='max-w-2xl bg-p-black p-5 rounded mt-4 mb-4'>
       <div className='text-p-main text-2xl pb-5'>{name}</div>
-      <img src={src}/>
+      <img alt="certificateImage" src={src}/>
     </div>
   )
 }
@@ -22,7 +22,7 @@ const Certificates = () => {
   return (
     <div id='certificates'>
       <div className='text-3xl'>Certificates</div>
-      <div>
+      <div className='grid grid-cols-2 gap-4'>
         <Certificate src={c1} name="Azure Fundamentals"/>
         <Certificate src={c3} name="Intermediate Machine Learning"/>
         <Certificate src={c4} name="Data Visualization"/>

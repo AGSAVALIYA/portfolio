@@ -1,11 +1,16 @@
 import React from 'react'
 
 const Skill = ({name, level}) => {
+
+  const percent = () => {
+    return (level*25).toString() + "%";
+  }
+
   return (
-    <div className='bg-p-black p-3 w-full mt-4 mb-4 rounded'>
+    <div className='transition-all hover:scale-105 bg-p-black p-3 w-full mt-4 mb-4 rounded lg:max-w-2xl'>
       <div className='pb-3'>{name}</div>
       <div className='w-full bg-p-grey h-5 rounded'>
-        <div className={`bg-p-main h-full w-${level === 1 ? '1/4' : level === 2 ? '1/2' : level === 3 ? '3/4' : 'full'} rounded`}></div>
+        <div style={{width: percent()}} className={`bg-p-main h-full rounded`}></div>
       </div>
     </div>
   )
