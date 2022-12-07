@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.a5aa4b23.css",
-    "main.js": "/portfolio/static/js/main.bea535e4.js",
+    "main.css": "/portfolio/static/css/main.fc3d4a7f.css",
+    "main.js": "/portfolio/static/js/main.b1825db2.js",
     "static/media/catwiki1.png": "/portfolio/static/media/catwiki1.ac750c42cc5d3cfed5a7.png",
     "static/media/catwiki3.png": "/portfolio/static/media/catwiki3.1c05a1dbcaa9e13e659f.png",
     "static/media/cocktail1.png": "/portfolio/static/media/cocktail1.c311a0ef558adb8f2d38.png",
@@ -18,13 +18,19 @@
     "static/media/IntermediateMachineLearning.png": "/portfolio/static/media/IntermediateMachineLearning.97dcd7ad3187e64c39ce.png",
     "static/media/DataVisualization.png": "/portfolio/static/media/DataVisualization.164a55e322e1306aff37.png",
     "static/media/ticTacToe2.png": "/portfolio/static/media/ticTacToe2.f4533ebff40845c8927a.png",
+    "static/media/geo2.webp": "/portfolio/static/media/geo2.19e066b650421a449a40.webp",
+    "static/media/cs1.jpeg": "/portfolio/static/media/cs1.16f3854ede63b3dcc298.jpeg",
+    "static/media/geo3.webp": "/portfolio/static/media/geo3.a4b48b457cf9708751b4.webp",
+    "static/media/cs3.jpeg": "/portfolio/static/media/cs3.153c416548ac148064e9.jpeg",
+    "static/media/cs2.jpeg": "/portfolio/static/media/cs2.7ab70653506a69bc2b31.jpeg",
     "static/media/ticTacToe1.png": "/portfolio/static/media/ticTacToe1.3e91ff5d75f22b2e97b6.png",
+    "static/media/geo1.webp": "/portfolio/static/media/geo1.518c931106aa4c1dcf31.webp",
     "index.html": "/portfolio/index.html",
-    "main.a5aa4b23.css.map": "/portfolio/static/css/main.a5aa4b23.css.map",
-    "main.bea535e4.js.map": "/portfolio/static/js/main.bea535e4.js.map"
+    "main.fc3d4a7f.css.map": "/portfolio/static/css/main.fc3d4a7f.css.map",
+    "main.b1825db2.js.map": "/portfolio/static/js/main.b1825db2.js.map"
   },
   "entrypoints": [
-    "static/css/main.a5aa4b23.css",
-    "static/js/main.bea535e4.js"
+    "static/css/main.fc3d4a7f.css",
+    "static/js/main.b1825db2.js"
   ]
 }
