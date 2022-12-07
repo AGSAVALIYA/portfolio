@@ -22,7 +22,7 @@ const Certificates = () => {
   return (
     <div id='certificates'>
       <div className='text-3xl'>Certificates</div>
-      <div className='grid grid-cols-2 gap-4'>
+      <div className='grid grid-cols-1 lg:grid-cols-2 gap-4'>
         <Certificate src={c1} name="Azure Fundamentals"/>
         <Certificate src={c3} name="Intermediate Machine Learning"/>
         <Certificate src={c4} name="Data Visualization"/>

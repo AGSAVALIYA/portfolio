@@ -9,6 +9,7 @@ module.exports = {
         'p-black': 'rgb(20, 20, 20)',
         'p-main': '#ff6600',
         'p-white': 'rgb(235, 235, 235)',
+        'p-greyer': 'rgb(25, 25, 25)',
         'p-grey': 'rgb(30, 30, 30)'
       }
     },
