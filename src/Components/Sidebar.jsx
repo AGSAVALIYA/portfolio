@@ -9,7 +9,7 @@ const Sidebar = () => {
         <div className='flex flex-row md:flex-col flex-1 w-full bg-p-greyer'>
           {/*<a href="#about" className='transition-all ease-linear duration-300 delay-0 text-base pb-3 hover:bg-p-main/10 px-4 py-3'>About</a>*/}
           <a href="#skills" className='transition-all ease-linear duration-300 delay-0 text-base md:pb-3 hover:bg-p-main/10 px-4 pt-3'>Skills</a>
-          <a href="#proects" className='transition-all ease-linear duration-300 delay-0 text-base md:pb-3 hover:bg-p-main/10 px-4 pt-3'>Proects</a>
+          <a href="#projects" className='transition-all ease-linear duration-300 delay-0 text-base md:pb-3 hover:bg-p-main/10 px-4 pt-3'>Projects</a>
           <a href="#certificates" className='transition-all ease-linear duration-300 delay-0 text-base md:pb-3 hover:bg-p-main/10 px-4 pt-3'>Certificates</a>        
         </div>
         <div className='flex p-5 text-2xl bg-p-greyer md:bg-p-black justify-evenly w-full'>
